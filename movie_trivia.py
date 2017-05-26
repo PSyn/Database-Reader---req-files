@@ -1,4 +1,4 @@
-#Kevin Muriuki and Philip Kyd
+#Phil K, Kevin M
 #imports csv reader
 import csv
 
